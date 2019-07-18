@@ -1,2 +1,2 @@
 # web-autotest
-This is a automation test framework for WEB-UI.
+WEB-UI autotest framework with Spring Boot 2
